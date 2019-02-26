@@ -1,0 +1,15 @@
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable Dependency.csprojAssemblyReference.cache
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\MainWindow.g.cs
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\App.g.cs
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable Dependency_MarkupCompile.cache
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable Dependency_MarkupCompile.lref
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\bin\Debug\Executable Dependency.exe.config
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\bin\Debug\Executable Dependency.exe
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\bin\Debug\Executable Dependency.pdb
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\MainWindow.baml
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable Dependency.g.resources
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable_Dependency.Properties.Resources.resources
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable Dependency.csproj.GenerateResource.cache
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable Dependency.csproj.CoreCompileInputs.cache
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable Dependency.exe
+C:\Users\Harshal\Desktop\Executable Dependency\Executable Dependency\obj\Debug\Executable Dependency.pdb
